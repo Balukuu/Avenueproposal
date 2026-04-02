@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" fill="none">
+  <style>
+    .main { font-family: 'Arial Black', 'Impact', sans-serif; font-weight: 900; font-size: 62px; fill: #FFFFFF; letter-spacing: 2px; }
+    .sub { font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 18px; fill: #FFFFFF; letter-spacing: 6px; }
+    .tagline { font-family: 'Georgia', 'Times New Roman', serif; font-style: italic; font-size: 13px; fill: rgba(255,255,255,0.8); letter-spacing: 0.5px; }
+    .square { fill: #FFFFFF; }
+  </style>
+  <text x="10" y="60" class="main">AVENUE</text>
+  <rect x="12" y="75" width="12" height="12" class="square"/>
+  <text x="30" y="86" class="sub">INSURANCE</text>
+  <rect x="200" y="75" width="12" height="12" class="square"/>
+  <text x="218" y="86" class="sub">BROKERS</text>
+  <text x="80" y="110" class="tagline">Innovative &amp; Personalized Solutions</text>
+</svg>
